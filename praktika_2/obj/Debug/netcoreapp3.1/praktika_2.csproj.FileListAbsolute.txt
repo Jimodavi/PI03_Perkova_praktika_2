@@ -1,0 +1,17 @@
+D:\Docs\вуз\praktika_2\bin\Debug\netcoreapp3.1\praktika_2.exe
+D:\Docs\вуз\praktika_2\bin\Debug\netcoreapp3.1\praktika_2.deps.json
+D:\Docs\вуз\praktika_2\bin\Debug\netcoreapp3.1\praktika_2.runtimeconfig.json
+D:\Docs\вуз\praktika_2\bin\Debug\netcoreapp3.1\praktika_2.runtimeconfig.dev.json
+D:\Docs\вуз\praktika_2\bin\Debug\netcoreapp3.1\praktika_2.dll
+D:\Docs\вуз\praktika_2\bin\Debug\netcoreapp3.1\praktika_2.pdb
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.csproj.AssemblyReference.cache
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.Form.resources
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.csproj.GenerateResource.cache
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.AssemblyInfoInputs.cache
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.AssemblyInfo.cs
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.csproj.CoreCompileInputs.cache
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.dll
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.pdb
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.genruntimeconfig.cache
+D:\Docs\вуз\praktika_2\obj\Debug\netcoreapp3.1\praktika_2.Properties.Resources.resources

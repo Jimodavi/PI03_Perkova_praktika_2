@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="praktika_2.Cell">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="praktika_2.CellArray">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAkAAAACEAQAAAgACAAAAAQBAAAAAAQAAgAAEA=</HashCode>
+      <FileName>CellArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="praktika_2.Form">
+    <Position X="5.5" Y="0.5" Width="3.75" />
+    <AssociationLine Name="ButtonColor1" Type="System.Windows.Forms.Button" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="0.812" />
+        <Point X="4" Y="0.812" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.301" Y="-0.012" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ButtonColor2" Type="System.Windows.Forms.Button" FixedFromPoint="true">
+      <Path>
+        <Point X="5.5" Y="0.938" />
+        <Point X="4" Y="0.938" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.274" Y="-0.021" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ButtonColor3" Type="System.Windows.Forms.Button" FixedFromPoint="true">
+      <Path>
+        <Point X="5.5" Y="1.062" />
+        <Point X="4" Y="1.062" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.256" Y="-0.154" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ButtonColor4" Type="System.Windows.Forms.Button" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="1.188" />
+        <Point X="4.75" Y="1.188" />
+        <Point X="4.75" Y="1.188" />
+        <Point X="4" Y="1.188" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.252" Y="-0.16" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="components" Type="System.ComponentModel.IContainer">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.171" Y="-0.008" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="LabelColor1" Type="System.Windows.Forms.Label" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.312" />
+        <Point X="4" Y="2.312" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.212" Y="0.27" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="LabelColor2" Type="System.Windows.Forms.Label" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.375" />
+        <Point X="4" Y="2.375" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.246" Y="0.237" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="LabelColor4" Type="System.Windows.Forms.Label" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.5" />
+        <Point X="4.75" Y="2.5" />
+        <Point X="4.75" Y="2.5" />
+        <Point X="4" Y="2.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.252" Y="0.169" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="LabelColor3" Type="System.Windows.Forms.Label" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.438" />
+        <Point X="4" Y="2.438" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.253" Y="0.203" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="LabelProbabilityM" Type="System.Windows.Forms.Label" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.625" />
+        <Point X="4" Y="2.625" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.151" Y="-0.016" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="LabelTimer" Type="System.Windows.Forms.Label" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="3.125" />
+        <Point X="3.812" Y="3.125" />
+        <Point X="3.812" Y="2.941" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.375" Y="0.024" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ButtonNew" Type="System.Windows.Forms.Button" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="1.312" />
+        <Point X="5.088" Y="1.312" />
+        <Point X="5.088" Y="1.312" />
+        <Point X="4" Y="1.312" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.241" Y="-0.138" Height="0.182" Width="1.277" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ButtonStart" Type="System.Windows.Forms.Button" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="1.438" />
+        <Point X="4.75" Y="1.438" />
+        <Point X="4.75" Y="1.438" />
+        <Point X="4" Y="1.438" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.259" Y="-0.171" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="LabelProbabilityV" Type="System.Windows.Forms.Label" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.75" />
+        <Point X="5.376" Y="2.75" />
+        <Point X="5.376" Y="2.75" />
+        <Point X="4" Y="2.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.168" Y="-0.01" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="PictureBoxDead" Type="System.Windows.Forms.PictureBox" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="4.5" />
+        <Point X="4" Y="4.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.012" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="PictureBoxMacrophage" Type="System.Windows.Forms.PictureBox" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="4.688" />
+        <Point X="4" Y="4.688" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="PictureBoxMain" Type="System.Windows.Forms.PictureBox" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="5.125" />
+        <Point X="4.758" Y="5.125" />
+        <Point X="4.758" Y="5.141" />
+        <Point X="3.25" Y="5.141" />
+        <Point X="3.25" Y="4.941" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.746" Y="-0.036" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="PictureBoxVirus" Type="System.Windows.Forms.PictureBox" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="4.375" />
+        <Point X="5.376" Y="4.375" />
+        <Point X="5.376" Y="4.345" />
+        <Point X="4" Y="4.345" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.108" Y="0.001" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Macrophage" Type="praktika_2.Cell">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.029" Y="0.069" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="LabelSize" Type="System.Windows.Forms.Label">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.353" Y="-0.011" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>UiAIEACAQCAAIkBAAACgANADGYAABAaAQBQYiAgGCJg=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ButtonColor1" />
+      <Field Name="ButtonColor2" />
+      <Field Name="ButtonColor3" />
+      <Field Name="ButtonColor4" />
+      <Field Name="components" />
+      <Field Name="ColorDialog" />
+      <Field Name="LabelColor1" />
+      <Field Name="LabelColor2" />
+      <Field Name="LabelColor4" />
+      <Field Name="LabelColor3" />
+      <Field Name="LabelProbabilityM" />
+      <Field Name="LabelTimer" />
+      <Field Name="ButtonNew" />
+      <Field Name="ButtonStart" />
+      <Field Name="LabelProbabilityV" />
+      <Field Name="PictureBoxDead" />
+      <Field Name="PictureBoxHealthy" />
+      <Field Name="PictureBoxMacrophage" />
+      <Field Name="PictureBoxMain" />
+      <Field Name="PictureBoxVirus" />
+      <Field Name="ScrollBarM" />
+      <Field Name="ScrollBarTimer" />
+      <Field Name="ScrollBarV" />
+      <Field Name="SplitContainer" />
+      <Field Name="SquareSize" />
+      <Field Name="Timer" />
+      <Field Name="MainArray" />
+      <Field Name="Healthy" />
+      <Field Name="Dead" />
+      <Field Name="Virus" />
+      <Field Name="Macrophage" />
+      <Field Name="LabelSize" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="praktika_2.Program">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Button" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.Label" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.ColorDialog" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.PictureBox" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.HScrollBar" Collapsed="true">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.SplitContainer" Collapsed="true">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.NumericUpDown" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Timer" Collapsed="true">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="System.ComponentModel.IContainer" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
